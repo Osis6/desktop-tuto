@@ -1,3 +1,3 @@
 project init
 
-f
+false project
