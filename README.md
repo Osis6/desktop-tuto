@@ -1,3 +1,3 @@
-project init
+new project init
 
-false project
+
